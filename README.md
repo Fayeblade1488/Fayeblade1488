@@ -24,6 +24,3 @@ Feel free to connect or reach out about cybersecurity, biochemistry, or anything
 
 _I have a bunch of virgin boomber who think I work for [Daddy NSA](https://github.com/NationalSecurityAgency/) and like to stalk me. One of them is 42 years old and 
 thinks that his "chat gpt 'codex' is somehow mythical or some shit_
-
-
-<img width="1024" height="1024" alt="ashley" src="https://github.com/user-attachments/assets/77063b2a-464f-4d38-a0e2-d4f1fd770902" />
