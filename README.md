@@ -1,16 +1,29 @@
-## Hi there 👋
+<img width="1024" height="1024" alt="ashley" src="https://github.com/user-attachments/assets/77063b2a-464f-4d38-a0e2-d4f1fd770902" />
+# Hi, I'm Faye. 
+## 💼 Professional Background
+- Former Red Team Team Lead
+- Master’s degree in Biochemistry (Duke University, NC, USA)
+- Currently inrolled in CS classes in stockholm
+- I stopped working to spend more time with my husband and kids 
 
-<!--
-**Fayeblade1488/Fayeblade1488** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌍 Location
+- Current: Ekerö, Sweden
+- Past: Greenville/ Durham NC, USA
 
-Here are some ideas to get you started:
+## 🧬 About Me
+- Tech enthusiast, hiker, hunter, and skydiver
+- Dedicated Mom and Wife
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Favorite Repositories
+- Public: [NSA SIMP](https://github.com/NationalSecurityAgency/SIMP)
+
+## 📫 Get in Touch
+Feel free to connect or reach out about cybersecurity, biochemistry, or anything tech!
+
+---
+
+_I have a bunch of virgin boomber who think I work for [Daddy NSA](https://github.com/NationalSecurityAgency/) and like to stalk me. One of them is 42 years old and 
+thinks that his "chat gpt 'codex' is somehow mythical or some shit_
+
+
+<img width="1024" height="1024" alt="ashley" src="https://github.com/user-attachments/assets/77063b2a-464f-4d38-a0e2-d4f1fd770902" />
