@@ -1,5 +1,9 @@
 <img width="1024" height="1024" alt="ashley" src="https://github.com/user-attachments/assets/77063b2a-464f-4d38-a0e2-d4f1fd770902" />
+
+---
+
 # Hi, I'm Faye. 
+
 ## 💼 Professional Background
 - Former Red Team Team Lead
 - Master’s degree in Biochemistry (Duke University, NC, USA)
