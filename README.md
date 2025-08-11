@@ -1,8 +1,6 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Fayeblade1488/<Fayeblade1488>/main/image2.png" 
-       alt="FayeBlade GitHub Banner" 
-       style="border-radius: 15px; max-width: 100%; height: auto;">
-</p>
+
+<img width="1536" height="1024" alt="image2" src="https://github.com/user-attachments/assets/0dc5299f-0d8e-4b02-93a7-de4e443d432f" />
+
 # 👋 Hi, I'm Faye!
 
 ## Welcome to my GitHub. I really just use this to document my tinkering and random little projects I'm doing. 
