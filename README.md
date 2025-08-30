@@ -1,5 +1,5 @@
 
-<img width="1536" height="1024" alt="image2" src="https://github.com/user-attachments/assets/0dc5299f-0d8e-4b02-93a7-de4e443d432f" />
+<img width="1536" height="1024" alt="40078e2e20570734af54dc517e4b9be10d02e244799548c2e62768777bca4b79" src="https://github.com/user-attachments/assets/514bd1e1-6ef5-4403-8d0a-441881c5217e" />
 
 # 👋 Hi, I'm Faye!
 
