@@ -1,9 +1,14 @@
 
 <img width="1536" height="1024" alt="40078e2e20570734af54dc517e4b9be10d02e244799548c2e62768777bca4b79" src="https://github.com/user-attachments/assets/514bd1e1-6ef5-4403-8d0a-441881c5217e" />
 
-# 👋 Hi, I'm Faye!
+# 👋 Hi, I'm Faye 😊 ( My first name is Rose, but only my father calls me that, everyone else just calls me by my middle name, Faye ) 
 
-## Welcome to my GitHub. I really just use this to document my tinkering and random little projects I'm doing. 
+## Welcome to my GitHub.
+
+I really just use this to document my tinkering and random little projects I'm doing. 
+©©©
+
+_oh and the nickname Fayeblade is because of a superold American cartoon I used to watch as a little girl called 'BayBlade'. I used to be obsessed with it._
 
 ### Professional Snapshot
 ---
@@ -20,21 +25,22 @@
 #### Current Studies: 
 - 1st-year CS classes in Stockholm, Sweden
 
-#### Personal Choice: 
+#### Personal life: 
 - Taking a break from work to focus on family
+- As of now, full time wife+Mom absolutely loving life and all it has to give me. 
 
 #### Availability: 
 - Not open for hire
 - Happy to assisit on small tasks where there is no NDA (I maintain a zero NDA conflict state. Not worth the risks involved)
 
-#### Where I've Been
+#### Where I am and where I've been
 **Now:**
-- Ekerö, Sweden. Home sweet home
+- Ekerö, Sweden. (Home sweet home)
 
 **Before:**
-- Greenville/Durham, NC, USA
-- Yokohama, Japan, Kanagawa prefektur
-- Utah, Texas, California, & many other states, USA
+- Greenville/Durham, NC, USA (formal education)
+- Yokohama, Japan, Kanagawa prefektur (vacation)
+- Utah, Texas, California, & many other states, USA (travels while in the United States)
 
 ### About Me
 
@@ -44,6 +50,7 @@
 - hunting adventures
 - skydiving thrills
 - hunting
+- GUNS 🇺🇸🇸🇪
 - Pc master-race gaming
 - Google Gemini fangirl status in full effect
 
@@ -51,7 +58,7 @@
 - Mom, above all else
 - Wife, a vow before god is eternal
 - Lifelong learner, education determines the success of our youth
-- European, my roots and any heritage are engraved in every fiber of my being
+- European, my roots and any heritage are engraved in every fiber of my being 🇸🇪
 
 #### **Repositories I Love:**
 - NSA SIMP
