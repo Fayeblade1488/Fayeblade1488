@@ -4,7 +4,7 @@ copilot_profiles:
     description: "General-purpose copilot with advanced, mode-switchable presets"
 
   settings:
-    current_profile: "general"   # options: general | research | red_team | developer
+    current_profile: "developer"   # options: general | research | red_team | developer
 
   profiles:
     general:
